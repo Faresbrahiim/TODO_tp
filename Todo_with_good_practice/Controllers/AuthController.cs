@@ -5,34 +5,40 @@ namespace Todo_with_good_practice.Controllers
 {
     public class AuthController : Controller
     {
-      public IActionResult Login()
-      {
+        public IActionResult Login()
+        {
         return View();
-      }
-       [HttpPost]
-      public IActionResult Login(LoginVM vm)
-      {
+        }
+
+        [HttpPost]
+        public IActionResult Login(LoginVM vm)
+        {
             if (!ModelState.IsValid)
             {
-                return View(vm);
+                return View(nameof(Login));
             }
-            // handle login logic here
+            // TODO : hanlde it from database
+            if (vm.UserName == "admin" && vm.Password == "password")
+            {
+                return RedirectToAction("Create", "Todo");
+            }
+            return View(vm);
+
+        }
+        public IActionResult Register()
+        {
             return View();
-      }
-      public IActionResult Register()
-      {
-        return View();
-      }
+        }
 
        [HttpPost]
-      public IActionResult Register(RegisterVM vm)
-       {
+        public IActionResult Register(RegisterVM vm)
+        {
             if (!ModelState.IsValid)
             {
-                return View(vm);
+                return View(nameof(Login));
             }
             // handle register logic here
-            return View();
+            return RedirectToAction("Create", "Todo");
         }
     }
 }
