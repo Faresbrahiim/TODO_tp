@@ -1,8 +1,15 @@
+using Todo_with_good_practice.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSession();
 
+// in each issesion calling -> create an instance of session todo service class 
+// it's like u did ISessionService x = new SessionTodoService();  
+// “When someone needs an ISessionService, create a SessionTodoService behind the scenes.”
+builder.Services.AddScoped<IsessionService , SessionTodoService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -14,6 +21,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseSession();
 app.UseRouting();
 
 app.UseAuthorization();

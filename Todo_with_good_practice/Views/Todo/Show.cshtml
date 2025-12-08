@@ -1,0 +1,46 @@
+﻿@model List<Todo_with_good_practice.Models.Todo>
+
+<h2>Your Todos</h2>
+
+@if (Model == null || Model.Count == 0)
+{
+    <p>No todos found.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Deadline</th>
+                <th>State</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Libelle</td>
+                    <td>@item.Description</td>
+                    <td>@item.Datelimite.ToString("yyyy-MM-dd")</td>
+                    <td>@item.State</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Edit</a>
+                    </td>
+                    <td>
+                        <form asp-action="Delete" asp-route-id="@item.Id" method="post">
+                            <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<div>
+    <a asp-controller"Todo" asp-action="Create">Add new todo</a>
+</div>

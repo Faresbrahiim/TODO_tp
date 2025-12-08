@@ -1,15 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Todo_with_good_practice.ViewModels;
 
+// auth is almost done just need to  handle it from db
 namespace Todo_with_good_practice.Controllers
 {
     public class AuthController : Controller
     {
+        // To get login view
         public IActionResult Login()
         {
         return View();
         }
-
+        // To post login view
         [HttpPost]
         public IActionResult Login(LoginVM vm)
         {
@@ -25,12 +27,13 @@ namespace Todo_with_good_practice.Controllers
             return View(vm);
 
         }
+        // To get register view
         public IActionResult Register()
         {
             return View();
         }
-
-       [HttpPost]
+        // To post register view
+        [HttpPost]
         public IActionResult Register(RegisterVM vm)
         {
             if (!ModelState.IsValid)
