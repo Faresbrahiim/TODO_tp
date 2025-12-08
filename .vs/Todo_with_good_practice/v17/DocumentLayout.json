@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +15,56 @@
       "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\services\\sessiontodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\todo\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\todo\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\viewmodels\\edittodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\viewmodels\\edittodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\filters\\sessionauthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\filters\\sessionauthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\viewmodels\\addtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\viewmodels\\addtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,40 +79,12 @@
       "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\todo\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\todo\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\viewmodels\\edittodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\viewmodels\\edittodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\viewmodels\\addtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\viewmodels\\addtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\todo_with_good_practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -90,180 +102,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\Controllers\\TodoController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Controllers\\TodoController.cs",
               "RelativeToolTip": "Todo_with_good_practice\\Controllers\\TodoController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwEgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T21:09:41.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Todo_with_good_practice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T11:09:31.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Todo\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Edit.cshtml",
-              "RelativeToolTip": "Todo_with_good_practice\\Views\\Todo\\Edit.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T13:20:20.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SessionTodoService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Services\\SessionTodoService.cs",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\Services\\SessionTodoService.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Services\\SessionTodoService.cs",
               "RelativeToolTip": "Todo_with_good_practice\\Services\\SessionTodoService.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwD8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAEwFgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T20:18:17.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Models\\Todo.cs",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Models\\Todo.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Models\\Todo.cs",
-              "RelativeToolTip": "Todo_with_good_practice\\Models\\Todo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:35:32.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IsessionService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Services\\IsessionService.cs",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\Services\\IsessionService.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Services\\IsessionService.cs",
               "RelativeToolTip": "Todo_with_good_practice\\Services\\IsessionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T20:22:21.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Index.cshtml",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Todo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Index.cshtml",
-              "RelativeToolTip": "Todo_with_good_practice\\Views\\Todo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-07T17:14:41.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TodoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Mappers\\TodoMapper.cs",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Mappers\\TodoMapper.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Mappers\\TodoMapper.cs",
-              "RelativeToolTip": "Todo_with_good_practice\\Mappers\\TodoMapper.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswC0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:48:07.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Todo_with_good_practice\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T12:41:09.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Todo_with_good_practice\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T21:07:14.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Show.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Show.cshtml",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Todo\\Show.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Show.cshtml",
-              "RelativeToolTip": "Todo_with_good_practice\\Views\\Todo\\Show.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvx4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-07T20:58:08.779Z",
+              "DocumentIndex": 3,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Mappers\\UserMapper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T21:07:09.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Create.cshtml",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Todo\\Create.cshtml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Create.cshtml",
               "RelativeToolTip": "Todo_with_good_practice\\Views\\Todo\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-06T20:49:13.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddTodoVM.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\ViewModels\\AddTodoVM.cs",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\ViewModels\\AddTodoVM.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\ViewModels\\AddTodoVM.cs",
-              "RelativeToolTip": "Todo_with_good_practice\\ViewModels\\AddTodoVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:37:28.353Z",
+              "DocumentIndex": 6,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Show.cshtml",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Todo\\Show.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Show.cshtml",
+              "RelativeToolTip": "Todo_with_good_practice\\Views\\Todo\\Show.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T20:58:08.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "Todo_with_good_practice\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T13:20:20.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T21:24:15.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "EditTodoVM.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\ViewModels\\EditTodoVM.cs",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\ViewModels\\EditTodoVM.cs",
@@ -276,20 +236,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T12:36:57.575Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "TodoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Mappers\\TodoMapper.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Mappers\\TodoMapper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Mappers\\TodoMapper.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Mappers\\TodoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:48:07.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
+              "Title": "SessionUser.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Models\\SessionUser.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Models\\SessionUser.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Models\\SessionUser.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Models\\SessionUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:38:12.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SessionAuthAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Filters\\SessionAuthAttribute.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Filters\\SessionAuthAttribute.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Filters\\SessionAuthAttribute.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Filters\\SessionAuthAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:41:11.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\ViewModels\\RegisterVM.cs",
@@ -302,33 +285,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddTodoVM.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\ViewModels\\AddTodoVM.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\ViewModels\\AddTodoVM.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\ViewModels\\AddTodoVM.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\ViewModels\\AddTodoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:37:28.353Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Todo_with_good_practice",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Todo_with_good_practice\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T12:41:09.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Models\\Todo.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:35:32.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Program.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Program.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:18:20.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Todo_with_good_practice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T11:09:31.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T12:36:57.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Todo_with_good_practice.csproj",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Todo_with_good_practice.csproj",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\Todo_with_good_practice.csproj",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Todo_with_good_practice.csproj",
               "RelativeToolTip": "Todo_with_good_practice\\Todo_with_good_practice.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-07T20:17:17.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T20:17:17.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Program.cs",
-              "RelativeDocumentMoniker": "Todo_with_good_practice\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Program.cs",
-              "RelativeToolTip": "Todo_with_good_practice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T18:18:20.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Auth\\Register.cshtml",
@@ -336,12 +377,11 @@
               "RelativeToolTip": "Todo_with_good_practice\\Views\\Auth\\Register.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T11:09:33.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T11:09:33.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Enums\\State.cs",
               "RelativeDocumentMoniker": "Todo_with_good_practice\\Enums\\State.cs",

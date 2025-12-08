@@ -7,6 +7,8 @@ using Todo_with_good_practice.ViewModels;
 using Todo_with_good_practice.Services;
 namespace Todo_with_good_practice.Controllers
 {
+    // we can use middleware also for authentication it works fine
+    [SessionAuth]
     public class TodoController : Controller
     {
         // depend on abstraction not concret class
@@ -40,7 +42,7 @@ namespace Todo_with_good_practice.Controllers
 
             //SessionTodoService sessionTodoService = new SessionTodoService();
             // know it depent on abstraction not on concret class
-            IsessionService.AddSession(HttpContext.Session, todo);
+            IsessionService.AddSession(HttpContext.Session, todo , "todos");
 
             return RedirectToAction(nameof(Create));
         }
@@ -77,7 +79,10 @@ namespace Todo_with_good_practice.Controllers
         public IActionResult Edit(EditTodoVM vm)
         {
             if (!ModelState.IsValid)
+            {
                 return View(vm);
+            }
+            // for single responsibility principle  we will map from EditTodoVM to Todo in mapper class
             var updatedTodo = TodoMapper.MapVMToTodo(vm);
             IsessionService.EditSessionById(HttpContext.Session, updatedTodo, "todos");
 

@@ -2,7 +2,6 @@ using Todo_with_good_practice.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
 

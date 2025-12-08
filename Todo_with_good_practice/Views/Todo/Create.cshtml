@@ -43,6 +43,9 @@
 <div>
     <a  asp-controller"Todo" asp-action="Show">Seee Todos</a>
 </div>
+<div>
+    <a asp-controller="Auth" asp-action="LogOut">logout</a>
+</div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
