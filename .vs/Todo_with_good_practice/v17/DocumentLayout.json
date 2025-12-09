@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\journalisation\\authlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\journalisation\\authlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\filters\\authloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\filters\\authloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\filters\\sessionauthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\filters\\sessionauthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\services\\sessiontodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\services\\sessiontodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|c:\\users\\pc\\desktop\\todo_with_good_practice\\todo_with_good_practice\\helpers\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3ADEAF-EE6A-4534-ADA8-F85191F918EF}|Todo_with_good_practice\\Todo_with_good_practice.csproj|solutionrelative:todo_with_good_practice\\helpers\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\.gitignore",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\.gitignore",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\.gitignore",
+              "RelativeToolTip": "Todo_with_good_practice\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-09T17:30:05.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Todo_with_good_practice\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T17:14:00.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:57:57.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionTodoService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Services\\SessionTodoService.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Services\\SessionTodoService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Services\\SessionTodoService.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Services\\SessionTodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:14:56.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:57:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IsessionService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Services\\IsessionService.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Services\\IsessionService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Services\\IsessionService.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Services\\IsessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:57:23.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionAuthAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Filters\\SessionAuthAttribute.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Filters\\SessionAuthAttribute.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Filters\\SessionAuthAttribute.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Filters\\SessionAuthAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:44:40.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthLoggingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Filters\\AuthLoggingFilter.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Filters\\AuthLoggingFilter.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Filters\\AuthLoggingFilter.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Filters\\AuthLoggingFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:33:39.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthLog.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Journalisation\\AuthLog.txt",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Journalisation\\AuthLog.txt",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Journalisation\\AuthLog.txt",
+              "RelativeToolTip": "Todo_with_good_practice\\Journalisation\\AuthLog.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-09T16:29:21.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Todo_with_good_practice\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T17:14:59.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Helpers\\FileLogger.cs",
+              "RelativeDocumentMoniker": "Todo_with_good_practice\\Helpers\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Todo_with_good_practice\\Todo_with_good_practice\\Helpers\\FileLogger.cs",
+              "RelativeToolTip": "Todo_with_good_practice\\Helpers\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:43:47.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

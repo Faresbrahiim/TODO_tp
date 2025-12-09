@@ -6,6 +6,8 @@ using Newtonsoft.Json;
 [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
 public class SessionAuthAttribute : ActionFilterAttribute
 {
+    // add dependency injection to call session service 
+    // but it will need more setup  and cause problems ....
     public override void OnActionExecuting(ActionExecutingContext context)
     {
         var session = context.HttpContext.Session;
@@ -14,12 +16,10 @@ public class SessionAuthAttribute : ActionFilterAttribute
         // If no user in session → redirect to login
         if (string.IsNullOrEmpty(userJson))
         {
+            // we can use context.HttpContext.Response.Redirect("/Auth/Login");
+            // it depends on situation
             context.Result = new RedirectToActionResult("Login", "Auth", null);
         }
-        else
-        {
-            // Optional: store deserialized user in HttpContext.Items
-            context.HttpContext.Items["CurrentUser"] = JsonConvert.DeserializeObject<SessionUser>(userJson);
-        }
+
     }
 }

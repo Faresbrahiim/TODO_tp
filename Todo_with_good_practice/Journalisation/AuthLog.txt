@@ -1,0 +1,14 @@
+2025-12-09 17:28:07 - [START] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice), User: Unknown
+2025-12-09 17:28:07 - [END] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice)
+2025-12-09 17:28:10 - [START] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice), User: admin
+2025-12-09 17:28:11 - [END] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice)
+2025-12-09 17:28:14 - [START] Action: Todo_with_good_practice.Controllers.AuthController.LogOut (Todo_with_good_practice), User: Unknown
+2025-12-09 17:28:14 - [END] Action: Todo_with_good_practice.Controllers.AuthController.LogOut (Todo_with_good_practice)
+2025-12-09 18:22:46 - [START] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice), User: 
+2025-12-09 18:22:46 - [END] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice)
+2025-12-09 18:23:02 - [START] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice), User: Unknown
+2025-12-09 18:23:02 - [END] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice)
+2025-12-09 18:23:25 - [START] Action: Todo_with_good_practice.Controllers.AuthController.LogOut (Todo_with_good_practice), User: 
+2025-12-09 18:23:25 - [END] Action: Todo_with_good_practice.Controllers.AuthController.LogOut (Todo_with_good_practice)
+2025-12-09 18:23:37 - [START] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice), User: 
+2025-12-09 18:23:37 - [END] Action: Todo_with_good_practice.Controllers.AuthController.Login (Todo_with_good_practice)

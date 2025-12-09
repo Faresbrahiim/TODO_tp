@@ -2,10 +2,12 @@
 using Todo_with_good_practice.Models;
 using Todo_with_good_practice.Services;
 using Todo_with_good_practice.ViewModels;
+using Todo_with_good_practice.Filters;
 
 // auth is almost done just need to  handle it from db
 namespace Todo_with_good_practice.Controllers
 {
+    [AuthLoggingFilter]
     public class AuthController : Controller
     {
         // To get login view
