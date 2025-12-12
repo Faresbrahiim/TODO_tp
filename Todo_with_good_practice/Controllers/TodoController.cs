@@ -7,14 +7,12 @@ using Todo_with_good_practice.ViewModels;
 using Todo_with_good_practice.Services;
 namespace Todo_with_good_practice.Controllers
 {
-    // we can use middleware also for authentication it works fine
+    // we can also use middleware also for authentication it works fine
     [SessionAuth]
     public class TodoController : Controller
     {
-        // depend on abstraction not concret class
-        // globaly since we will use it in more than one method
+    
         private IsessionService IsessionService;
-        // dependency injection via constructor
         public TodoController(IsessionService TodoService)
         {
             this.IsessionService = TodoService;
@@ -66,7 +64,7 @@ namespace Todo_with_good_practice.Controllers
         public IActionResult Edit(int id)
         {
             var todo = IsessionService.GetTodoById<Todo>(HttpContext.Session, id, "todos");
-            if (todo == null) return NotFound(); // case of editing in url an id not exist
+   
 
             // map from todo to EditTodoVM ... to fill the form by existing data
             EditTodoVM vm = TodoMapper.MapTodoToVM(todo);
