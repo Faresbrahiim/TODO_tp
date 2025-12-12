@@ -55,19 +55,7 @@ No "God classes" – everything is separated!
 - Controllers and filters depend on **abstractions**, not concrete classes
 
 ## 📁 Project Structure
-Todo_with_good_practice/
-├── Controllers/           # MVC Controllers
-├── Models/                # Domain models
-├── ViewModels/            # View-specific models
-├── Mappers/               # Conversions between models & viewmodels
-├── Services/              # Business logic + interfaces
-├── Filters/               # Authentication & logging filters
-├── Helpers/               # FileLogger etc.
-├── Enums/                 # Enum definitions
-├── Views/                 # Razor views
-├── wwwroot/               # Static files
-└── Journalisation/        # Log files are created here
-
+![Screenshot](Images/ssss.png)
 ##  How to Run
 
 ```bash
