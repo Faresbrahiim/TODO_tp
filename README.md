@@ -1,86 +1,84 @@
-Todo With Good Practices – ASP.NET Core MVC
+# Todo With Good Practices – ASP.NET Core MVC
 
-This project is a simple Todo management web application built using ASP.NET Core MVC, designed mainly to practice clean architecture, SOLID (S , D), and good development patterns.
-It includes session-based authentication, CRUD operations for Todos, filters, ViewModels, and a custom logging system.
+![.NET](https://img.shields.io/badge/.NET-8.0-5C2D91?logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![MVC](https://img.shields.io/badge/Architecture-MVC-blue)
+![SOLID](https://img.shields.io/badge/SOLID-S%20%26%20D-green)
 
- Main Features
- Authentication (Session-Based)
+A simple but well-structured **Todo web application** built with **ASP.NET Core MVC** to demonstrate **clean architecture**, **SOLID principles** (especially **S** and **D**), dependency injection, filters, ViewModels, mappers, and custom logging.
 
-Login and Register forms (⚠ hardcoded users – no database)
-Logged user is stored in Session as SessionUser
-Logout clears session
+Perfect for learning good development practices without the complexity of a database.
 
-📝 Todo Management
+##  Main Features
 
-Create a new Todo
-Edit an existing Todo
-Delete a Todo
-View all Todos
+###  Authentication (Session-Based)
+- Login & Register forms
+- Hardcoded users (no database – intentional for simplicity)
+- Logged user stored in `Session` as `SessionUser`
+- Logout clears the session
 
-Todos are stored in Session 
-Managed through a dedicated SessionTodoService
+### 📝 Todo Management
+- Create, Read, Update, Delete (CRUD) Todos
+- Todos stored in `Session`
+- Managed via dedicated `SessionTodoService`
 
-🧩 Filters
+### 🧩 Custom Filters
+- `SessionAuthAttribute` – protects Todo pages (redirects to login if not authenticated)
+- `AuthLoggingFilter` – logs authentication actions (start/end, username, timestamp)
 
-SessionAuthAttribute → checks if user is logged in before accessing Todo pages
-AuthLoggingFilter → logs login/register actions (start/end, username, timestamp)
+### 📄 Custom Logging System
+- File-based logger (`FileLogger`)
+- Logs all important actions:
+  - Login/Register attempts
+  - Logout
+  - Controller action start/end
+- Logs saved in `/Journalisation/` folder as text files
 
-Logging (Journalisation)
+###  Architecture & Good Practices
+This project strictly follows:
 
-A simple file-based logger (FileLogger) is used to log:
-Login attempts
-Register attempts
-Logout
-Action start / end
-Logs are stored in a text file inside a Journalisation folder.
+####  **S** – Single Responsibility Principle
+Each class has **one clear responsibility**:
+- `Controllers` → handle HTTP requests only  
+ `ViewModels` → shape data for views  
+ `Mappers` → convert between models and viewmodels  
+ `Services` → business/session logic  
+ `Filters` → authentication & logging  
+ `Helpers` → file logging  
+ `Models` → pure data entities  
 
-Respecting SOLID Principles
+No "God classes" – everything is separated!
 
-This project intentionally respects the S and D of SOLID:
+####  **D** – Dependency Inversion Principle
+- All services use **interfaces** (`ISessionService`, `ITodoService`, etc.)
+- Dependencies injected via constructor
+- Controllers and filters depend on **abstractions**, not concrete classes
 
- S — Single Responsibility Principle
-Each class has one clear role:
-Controllers → handle HTTP flow only
-ViewModels → shape the data for forms
-Mappers → convert between ViewModels and Models
-Services → manage session operations
-Filters → handle cross-cutting concerns (auth + logging)
-Helpers → logging to file
-Models → represent core business entities
-No class mixes responsibilities.
-
- D — Dependency Inversion Principle
-The project uses interfaces for services (ex: ISessionService) and injects them where needed.
-Controllers and filters depend on abstractions, not concrete implementations.
-
- Project Structure
+## 📁 Project Structure
 Todo_with_good_practice/
-│
-├── Controllers/
-├── Models/
-├── ViewModels/
-├── Mappers/
-├── Services/
-├── Filters/
-├── Helpers/
-|__ Enums/
-|__ Views/
-└── Journalisation/
+├── Controllers/           # MVC Controllers
+├── Models/                # Domain models
+├── ViewModels/            # View-specific models
+├── Mappers/               # Conversions between models & viewmodels
+├── Services/              # Business logic + interfaces
+├── Filters/               # Authentication & logging filters
+├── Helpers/               # FileLogger etc.
+├── Enums/                 # Enum definitions
+├── Views/                 # Razor views
+├── wwwroot/               # Static files
+└── Journalisation/        # Log files are created here
 
-How to Run
+##  How to Run
 
-Clone the repo:
+```bash
 git clone https://github.com/Faresbrahiim/TODO_tp.git
-
-
-Open in Visual Studio 
-Run the project:
+cd TODO_tp
+dotnet restore
 dotnet run
-Access from browser:
-http://localhost:5000
 
-📌 Notes
+Open your browser and go to:
+ http://localhost:5000
+Default login (hardcoded):
 
-No database is used — everything works with Session (users + todos)
-Login and Register use a simple hardcoded mechanism
-The goal of this repo is learning, not building a production-ready system
+Username: admin
+Password: password
